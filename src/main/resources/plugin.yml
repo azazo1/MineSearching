@@ -1,0 +1,9 @@
+name: MineSearching
+version: '${version}'
+main: com.azazo1.minesearching.MineSearching
+api-version: 1.19
+commands:
+  getpickaxe:
+    usage: "/getpickaxe"
+    description: "获得鹰眼镐子"
+    permission: op
